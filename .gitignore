@@ -1,0 +1,12 @@
+*.log
+AGENTS.md
+__pycache__/
+*.pyc
+data/*.cache
+dist/
+.metadata/
+*.swp
+.DS_Store
+env/
+local.settings.json
+*.sqlite3
