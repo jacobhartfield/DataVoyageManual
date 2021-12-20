@@ -1,0 +1,12 @@
+- name: Lumen Ridge
+  country: Canada
+  evening_flow: slow
+  notable_spots:
+    - Aurora Overlook
+    - Old Port Lanterns
+- name: Emberfield
+  country: USA
+  evening_flow: balanced
+  notable_spots:
+    - River Walk Market
+    - Firefly Boulevard
