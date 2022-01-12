@@ -15,3 +15,13 @@ NightRoute Atlas is a solo experiment in building a lightweight data voyage assi
 - Draft the CLI scaffold for importing and tagging data points.
 - Add helper modules that can generate context-aware summaries.
 - Keep documenting the thought process so the project feels lived-in.
+
+## What is already here
+- A minimal atlas object that tracks a series of points and can format them into short entries.
+- Sample data that represents the cities and narrative snippets gathered during a run.
+- A CLI script that ties the data and atlas together, plus tests to confirm the story builder.
+
+## Roadmap
+1. Add a small scheduler that recommends evenings based on brightness and transit pace.
+2. Introduce a notebook export that can be copied into a travel log.
+3. Bake in some safety checks so the tool remains a silent companion rather than a mission control system.
