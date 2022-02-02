@@ -1,0 +1,11 @@
+[project]
+name = "night-route-atlas"
+version = "0.1.0"
+description = "A personal note-taking helper for uncrowded exploration runs."
+authors = ["Night Route <night@atlas.example>"]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["PyYAML"]
+
+[project.scripts]
+night-route-atlas = "scripts.atlas_cli:main"
